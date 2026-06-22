@@ -7,7 +7,7 @@ Proyecto de tienda online de champú desarrollado con:
 - JavaScript
 
 ## Descripción
-Este proyecto simula una tienda online con páginas de productos, carrito de compras y estructura web básica.
+Este proyecto simula una tienda online con productos, carrito de compras y navegación entre páginas.
 
 ## Autor
-Briceyda Obando.
+Briceyda Obando
