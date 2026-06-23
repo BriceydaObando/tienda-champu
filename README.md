@@ -1,13 +1,28 @@
-# tienda-champu
+# 🧴 Tienda Online de Champú Anticaspa
 
-Proyecto de tienda online de champú desarrollado con:
+Proyecto desarrollado como parte del programa Técnico en Diseño y Desarrollo de Software.
 
+## 🚀 Tecnologías utilizadas
 - HTML
 - CSS
 - JavaScript
 
-## Descripción
-Este proyecto simula una tienda online con productos, carrito de compras y navegación entre páginas.
+## 📌 Descripción
+Sistema web que permite visualizar y comprar un producto (champú anticaspa), incluyendo funcionalidades como:
+- Visualización del producto
+- Carrito de compras
+- Navegación entre páginas
 
-## Autor
+## 🎯 Característica principal
+El sistema está enfocado en un solo producto, lo que mejora la experiencia del usuario y facilita la compra.
+
+## 🌐 Demo en línea
+https://BriceydaObando.github.io/tienda-champu/
+
+## ⚙️ Instalación
+1. Descargar el proyecto
+2. Abrir en Visual Studio Code
+3. Ejecutar index.html
+
+## 👩‍💻 Autor
 Briceyda Obando
