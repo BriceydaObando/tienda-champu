@@ -5,7 +5,7 @@ Proyecto desarrollado como parte del programa Técnico en Diseño y Desarrollo d
 ## 🚀 Tecnologías utilizadas
 - HTML
 - CSS
-- JavaScript
+- JaScript
 
 ## 📌 Descripción
 Sistema web que permite visualizar y comprar un producto (shampoo anticaspa), incluyendo funcionalidades como:
